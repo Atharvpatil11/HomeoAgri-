@@ -1,3 +1,23 @@
+# fastapi
+# uvicorn
+# python-multipart
+# sqlalchemy
+# alembic
+# pydantic
+# pydantic-settings
+# pytest
+# httpx
+# python-dotenv
+# passlib[bcrypt]
+# bcrypt==3.2.0
+# python-jose[cryptography]
+# opencv-python-headless
+# tensorflow
+# numpy
+# pillow
+# psycopg2-binary
+# pymysql
+# email-validator
 fastapi
 uvicorn
 python-multipart
@@ -12,7 +32,8 @@ passlib[bcrypt]
 bcrypt==3.2.0
 python-jose[cryptography]
 opencv-python-headless
-tensorflow
+tensorflow==2.13.0
+keras==2.13.1
 numpy
 pillow
 psycopg2-binary
