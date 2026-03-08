@@ -1,121 +1,39 @@
-# fastapi
-# uvicorn
-# python-multipart
-# sqlalchemy
-# alembic
-# pydantic
-# pydantic-settings
-# pytest
-# httpx
-# python-dotenv
-# passlib[bcrypt]
-# bcrypt==3.2.0
-# python-jose[cryptography]
-# opencv-python-headless
-# tensorflow
-# numpy
-# pillow
-# psycopg2-binary
-# pymysql
-# email-validator
-# fastapi
-# uvicorn
-# python-multipart
-# sqlalchemy
-# alembic
-# pydantic
-# pydantic-settings
-# pytest
-# httpx
-# python-dotenv
-# passlib[bcrypt]
-# bcrypt==3.2.0
-# python-jose[cryptography]
-# opencv-python-headless
-# tensorflow==2.13.0
-# keras==2.13.1
-# numpy
-# pillow
-# psycopg2-binary
-# pymysql
-# email-validator
 # Core web framework
-# Core web framework
-#---------------------
-
-# fastapi==0.133.1
-# uvicorn==0.22.0
-# python-multipart==0.0.6
-
-# # Database and ORM
-# sqlalchemy==2.0.20
-# alembic==1.18.4
-# psycopg2-binary==2.9.9
-# pymysql==1.1.0
-
-# # Validation and settings
-# pydantic==1.10.11
-# pydantic-settings==1.1.1
-# email-validator==2.3.0
-# python-dotenv==1.0.0
-
-# # Security and authentication
-# passlib[bcrypt]==1.7.4
-# bcrypt==3.2.0
-# python-jose[cryptography]==3.3.0
-
-# # Testing and HTTP requests
-# pytest==7.4.2
-# httpx==0.28.1
-
-# # Computer vision and AI
-# opencv-python-headless==4.8.1.78
-# tensorflow==2.13.0
-# keras==2.13.1
-# numpy==1.25.2
-# pillow==10.1.0
-
-# # Miscellaneous
-# click==8.3.1
-# colorama==0.4.6
-
-#------------------
-# Core web framework
-fastapi==0.103.2
-starlette==0.27.0
-uvicorn==0.23.1
-python-multipart==0.0.6
+fastapi
+python-multipart
+starlette
+uvicorn
 
 # Database and ORM
-SQLAlchemy==2.0.20
-alembic==1.18.4
-psycopg2-binary==2.9.9
-PyMySQL==1.1.0
+SQLAlchemy
+alembic
+psycopg2-binary
+PyMySQL
 
 # Validation and settings
-pydantic==2.12.5
-pydantic-settings==2.13.1
-email-validator==2.3.0
-python-dotenv==1.2.1
+pydantic
+pydantic-settings
+email-validator
+python-dotenv
 
 # Security and authentication
-passlib[bcrypt]==1.7.4
-bcrypt==3.2.0
-python-jose[cryptography]==3.3.0
+passlib[bcrypt]
+bcrypt
+python-jose[cryptography]
 
 # Testing and HTTP requests
-pytest==9.0.2
-httpx==0.28.1
+pytest
+httpx
+requests
 
 # Computer vision and AI
 opencv-python-headless==4.8.1.78
-tensorflow==2.13.0
-keras==2.13.1
+tensorflow==2.15.0
+keras==2.15.0
 numpy==1.24.3
 pillow==10.1.0
 
 # Miscellaneous
-click==8.3.1
-colorama==0.4.6
-cryptography==46.0.5
-requests==2.32.5
+click
+colorama
+cryptography
