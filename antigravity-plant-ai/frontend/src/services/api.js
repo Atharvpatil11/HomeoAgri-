@@ -1,9 +1,8 @@
 import axios from 'axios';
 
 const api = axios.create({
-  // Use a relative URL so requests go through Vite's proxy to localhost:8000
-  // This avoids IP address issues when accessing via network
-  baseURL: '/api/v1',
+  // Use environment variable if available, otherwise default to the live Render backend
+  baseURL: import.meta.env.VITE_API_BASE_URL || 'https://homoeoplant.onrender.com/api/v1',
   headers: {
     'Content-Type': 'application/json',
   },
