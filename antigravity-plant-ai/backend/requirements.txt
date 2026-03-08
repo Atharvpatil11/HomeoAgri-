@@ -108,11 +108,11 @@ pytest==9.0.2
 httpx==0.28.1
 
 # Computer vision and AI
-opencv-python-headless==4.13.0.92
+opencv-python-headless==4.8.1.78
 tensorflow==2.13.0
 keras==2.13.1
-numpy==1.26.4
-pillow==12.1.1
+numpy==1.24.3
+pillow==10.1.0
 
 # Miscellaneous
 click==8.3.1
