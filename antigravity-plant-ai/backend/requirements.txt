@@ -1,78 +1,78 @@
-# # fastapi
-# # uvicorn
-# # python-multipart
-# # sqlalchemy
-# # alembic
-# # pydantic
-# # pydantic-settings
-# # pytest
-# # httpx
-# # python-dotenv
-# # passlib[bcrypt]
-# # bcrypt==3.2.0
-# # python-jose[cryptography]
-# # opencv-python-headless
-# # tensorflow
-# # numpy
-# # pillow
-# # psycopg2-binary
-# # pymysql
-# # email-validator
-# fastapi
-# uvicorn
-# python-multipart
-# sqlalchemy
-# alembic
-# pydantic
-# pydantic-settings
-# pytest
-# httpx
-# python-dotenv
-# passlib[bcrypt]
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+alembic
+pydantic
+pydantic-settings
+pytest
+httpx
+python-dotenv
+passlib[bcrypt]
+bcrypt==3.2.0
+python-jose[cryptography]
+opencv-python-headless
+tensorflow
+numpy
+pillow
+psycopg2-binary
+pymysql
+email-validator
+fastapi
+uvicorn
+python-multipart
+sqlalchemy
+alembic
+pydantic
+pydantic-settings
+pytest
+httpx
+python-dotenv
+passlib[bcrypt]
+bcrypt==3.2.0
+python-jose[cryptography]
+opencv-python-headless
+tensorflow==2.13.0
+keras==3.13.2
+numpy
+pillow
+psycopg2-binary
+pymysql
+email-validator
+Core web framework
+Core web framework
+# fastapi==0.133.1
+# uvicorn==0.22.0
+# python-multipart==0.0.6
+
+# # Database and ORM
+# sqlalchemy==2.0.20
+# alembic==1.18.4
+# psycopg2-binary==2.9.9
+# pymysql==1.1.0
+
+# # Validation and settings
+# pydantic==1.10.11
+# pydantic-settings==1.1.1
+# email-validator==2.3.0
+# python-dotenv==1.0.0
+
+# # Security and authentication
+# passlib[bcrypt]==1.7.4
 # bcrypt==3.2.0
-# python-jose[cryptography]
-# opencv-python-headless
+# python-jose[cryptography]==3.3.0
+
+# # Testing and HTTP requests
+# pytest==7.4.2
+# httpx==0.28.1
+
+# # Computer vision and AI
+# opencv-python-headless==4.8.1.78
 # tensorflow==2.13.0
 # keras==2.13.1
-# numpy
-# pillow
-# psycopg2-binary
-# pymysql
-# email-validator
-# Core web framework
-# Core web framework
-fastapi==0.133.1
-uvicorn==0.22.0
-python-multipart==0.0.6
+# numpy==1.25.2
+# pillow==10.1.0
 
-# Database and ORM
-sqlalchemy==2.0.20
-alembic==1.18.4
-psycopg2-binary==2.9.9
-pymysql==1.1.0
-
-# Validation and settings
-pydantic==1.10.11
-pydantic-settings==1.1.1
-email-validator==2.3.0
-python-dotenv==1.0.0
-
-# Security and authentication
-passlib[bcrypt]==1.7.4
-bcrypt==3.2.0
-python-jose[cryptography]==3.3.0
-
-# Testing and HTTP requests
-pytest==7.4.2
-httpx==0.28.1
-
-# Computer vision and AI
-opencv-python-headless==4.8.1.78
-tensorflow==2.13.0
-keras==2.13.1
-numpy==1.25.2
-pillow==10.1.0
-
-# Miscellaneous
-click==8.3.1
-colorama==0.4.6
+# # Miscellaneous
+# click==8.3.1
+# colorama==0.4.6
